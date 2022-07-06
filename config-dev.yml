@@ -31,6 +31,8 @@ eureka:
       register-with-eureka: true
       fetch-registry: true
       defaultZone: http://replica1:7001/eureka
+config:
+  info: github  version=1
 
 
 
