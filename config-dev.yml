@@ -32,7 +32,7 @@ eureka:
       fetch-registry: true
       defaultZone: http://replica1:7001/eureka
 config:
-  info: github  version=1
+  info: githubversion=1
 
 
 
